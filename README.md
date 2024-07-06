@@ -8,6 +8,5 @@
 
 
 
-> [!TIP]
 > Wait about 1 minute for windows to activate. you do not need to restart the computer after the procedure
 
